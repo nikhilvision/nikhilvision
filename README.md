@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nikhil Tyagi</h1>
+<h3 align="center">🚀 Vision-Driven Developer | Future Tech Builder | AI Explorer</h3>
 
-<!--
-**nikhilvision/nikhilvision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently Building: Face Recognition System
+- 🤖 Exploring: Artificial Intelligence & Computer Vision
+- 🎮 Learning: Game Development (Unity)
+- 🚀 Mission: Build futuristic tech products that solve real-world problems
+- 🌱 Always learning & improving every single day
+
+---
+
+## 🛠 Tech Stack
+
+💻 Python  
+🤖 OpenCV  
+🧠 Machine Learning (Basics)  
+🎮 Unity (Beginner)  
+🌐 HTML | CSS  
+
+---
+
+## 🚀 Featured Projects (More Coming Soon)
+
+🔹 Face Recognition System  
+Real-time face detection & recognition using OpenCV.
+
+🔹 Future Tech Concepts  
+Working on innovative ideas combining AI & automation.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilvision&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilvision&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Vision
+
+> "I don't just write code. I build vision into reality."
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: (nikhiltyagiji3@gmail.com)
+- 💼 LinkedIn: (Add link soon)
+
+---
+
+⚡ Consistency > Motivation  
+🚀 Building today for a better tomorrow
