@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Vision-Driven+Developer;AI+Explorer;Future+Tech+Builder;Consistency+Over+Motivation" />
 </p>
+<p align="center">
+  <b>Turning Vision Into Scalable Technology 🚀</b>
+</p>
 <h1 align="center">Hi 👋, I'm Nikhil Tyagi</h1>
 <h3 align="center">🚀 Vision-Driven Developer | Future Tech Builder | AI Explorer</h3>
 
@@ -17,12 +20,9 @@
 ---
 
 ## 🛠 Tech Stack
-
-💻 Python  
-🤖 OpenCV  
-🧠 Machine Learning (Basics)  
-🎮 Unity (Beginner)  
-🌐 HTML | CSS  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,unity,html,css,git" />
+</p>
 
 ---
 
